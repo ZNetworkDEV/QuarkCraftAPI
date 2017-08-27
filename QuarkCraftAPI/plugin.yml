@@ -1,0 +1,8 @@
+name: QuarkCraftAPI
+version: 1.0
+main: net.quarkcraft.api.CoreAPI
+commands:
+  rangos:
+  premium:
+  msg:
+  amigos:
